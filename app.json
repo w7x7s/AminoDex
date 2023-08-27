@@ -1,0 +1,18 @@
+{
+  "Application": {
+    "Name": "My App",
+    "Developer": "John Doe",
+    "Contact": {
+      "Instagram": "instagram.com/johndoe",
+      "Telegram": "t.me/johndoe"
+    }
+  },
+  "Actions": {
+    "CloseApp": true,
+    "UpdateAvailable": true
+  },
+  "Messages": {
+    "AppClosed": "The app is now closed.",
+    "UpdateAvailable": "An update is available. Please update the app."
+  }
+}

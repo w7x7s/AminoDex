@@ -8,7 +8,7 @@
     }
   },
   "Actions": {
-    "CloseApp": true,
+    "CloseApp": false,
     "UpdateAvailable": true
   },
   "Messages": {

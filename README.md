@@ -2,7 +2,7 @@
 
 **English**
 
-AminoDex is a mobile application under development that displays information about amino acids.
+AminoDex is a mobile application under development .
 
 ## Contact the developer
 
@@ -22,7 +22,7 @@ AminoDex is licensed under the MIT license.
 
 **Arabic**
 
-AminoDex هو تطبيق جوال تحت التطوير يعرض معلومات حول الأحماض الأمينية.
+AminoDex هو تطبيق جوال تحت التطوير .
 
 ## التواصل مع المطور
 

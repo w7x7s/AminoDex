@@ -16,9 +16,7 @@ If you would like to financially support the developer, you can send cryptocurre
 * Binance: 436544242
 * Bybit: 58274274
 
-## License
 
-AminoDex is licensed under the MIT license.
 
 **Arabic**
 

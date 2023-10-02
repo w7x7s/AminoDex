@@ -2,19 +2,12 @@
 
 **English**
 
-AminoDex is a web application that displays information about amino acids.
-
-## Features
-
-* Displays information about all amino acids
-* Searches for amino acids by name or symbol
-* Displays diagrams of amino acid structure
-* Displays information about amino acid properties
+AminoDex is a mobile application under development that displays information about amino acids.
 
 ## Contact the developer
 
-* Join the AminoDex community on Telegram: https://t.me/AminoDex
-* Follow the developer on Instagram: https://www.instagram.com/w7x7s
+* Telegram: [@w7x7s](https://t.me/w7x7s)
+* Instagram: [@w7x7s](https://www.instagram.com/w7x7s)
 
 ## Financial support
 
@@ -29,19 +22,12 @@ AminoDex is licensed under the MIT license.
 
 **Arabic**
 
-AminoDex هو تطبيق ويب يعرض معلومات حول الأحماض الأمينية.
-
-## الميزات
-
-* يعرض معلومات حول جميع الأحماض الأمينية
-* يبحث عن الأحماض الأمينية حسب الاسم أو الرمز
-* يعرض رسوم بيانية لتركيب الأحماض الأمينية
-* يعرض معلومات حول خصائص الأحماض الأمينية
+AminoDex هو تطبيق جوال تحت التطوير يعرض معلومات حول الأحماض الأمينية.
 
 ## التواصل مع المطور
 
-* انضم إلى مجتمع AminoDex على Telegram: https://t.me/AminoDex
-* تابع المطور على Instagram: https://www.instagram.com/w7x7s
+* Telegram: [@w7x7s](https://t.me/w7x7s)
+* Instagram: [@w7x7s](https://www.instagram.com/w7x7s)
 
 ## الدعم المالي
 
@@ -53,5 +39,3 @@ AminoDex هو تطبيق ويب يعرض معلومات حول الأحماض ا
 ## الترخيص
 
 AminoDex مرخص بموجب رخصة MIT.
-
-

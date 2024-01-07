@@ -9,7 +9,7 @@
           "UpdateLink": "https://t.me/PYTOOl1/" 
         },
         "Actions": {
-          "CloseApp": false,
+          "CloseApp": true,
           "UpdateAvailable": false
         },
         "Messages": {

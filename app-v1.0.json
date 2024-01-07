@@ -13,7 +13,7 @@
           "UpdateAvailable": false
         },
         "Messages": {
-          "AppClosed": "عيل معتوه!",
+          "AppClosed": "The app is now closed.",
           "UpdateAvailable": "An update is available. Please update the app."
         }
       }

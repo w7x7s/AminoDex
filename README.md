@@ -83,9 +83,8 @@ AminoDex is licensed under the MIT License.
 
 
 
-**شكرًا:**
 
-* ...
+
 
 **الدعم المالي:**
 

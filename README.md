@@ -35,9 +35,7 @@ If you would like to financially support the developer, you can send cryptocurre
 * PayPal: [@emp221](https://www.paypal.com/paypalme/emp221?country.x=JO&locale.x=ar_EG)
 
 
-**License:**
 
-AminoDex is licensed under the MIT License.
 
 
 **Social media:**
@@ -96,6 +94,5 @@ AminoDex is licensed under the MIT License.
 
 **الترخيص:**
 
-AminoDex . MIT.
 
 

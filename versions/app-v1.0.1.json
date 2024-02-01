@@ -10,7 +10,8 @@
         },
         "Actions": {
           "CloseApp": false,
-          "UpdateAvailable": ture
+          "UpdateAvailable": tru
+         e
         },
         "Messages": {
           "AppClosed": "The app is now closed.",

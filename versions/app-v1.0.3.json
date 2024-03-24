@@ -6,11 +6,11 @@
             "Instagram": "https://www.instagram.com/w7x7s",
             "Telegram": "https://t.me/w7x7s"
           },
-          "UpdateLink": "https://t.me/PYTOOl1/" 
+          "UpdateLink": "https://www.mediafire.com/file/op9dge66uzulgiw/AminoDex-v1.0.4.apk/file" 
         },
         "Actions": {
           "CloseApp": false,
-          "UpdateAvailable": false
+          "UpdateAvailable": true
         },
         "Messages": {
           "AppClosed": "The app is now closed.",

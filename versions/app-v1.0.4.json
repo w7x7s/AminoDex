@@ -13,9 +13,9 @@
           "UpdateAvailable": false
         },
         "Messages": {
-          "AppClosed": "Waiting for updates.
+          "AppClosed": """Waiting for updates.
 انتظر التحديث القادم
-",
+""",
           "UpdateAvailable": "An update is available. Please update the app."
         }
       }

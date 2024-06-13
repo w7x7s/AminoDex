@@ -1,21 +1,19 @@
- {
-        "Application": {
-          "Name": "Amino dex",
-          "Developer": "Emp ~ Hamza Yasser ",
-          "Contact": {
-            "Instagram": "https://www.instagram.com/w7x7s",
-            "Telegram": "https://t.me/w7x7s"
-          },
-          "UpdateLink": "https://t.me/PYTOOl1/" 
-        },
-        "Actions": {
-          "CloseApp": true,
-          "UpdateAvailable": false
-        },
-        "Messages": {
-          "AppClosed": """Waiting for updates.
-انتظر التحديث القادم
-""",
-          "UpdateAvailable": "An update is available. Please update the app."
-        }
-      }
+{
+  "Application": {
+    "Name": "Amino dex",
+    "Developer": "Emp ~ Hamza Yasser",
+    "Contact": {
+      "Instagram": "https://www.instagram.com/w7x7s",
+      "Telegram": "https://t.me/w7x7s"
+    },
+    "UpdateLink": "https://t.me/PYTOOl1/"
+  },
+  "Actions": {
+    "CloseApp": true,
+    "UpdateAvailable": false
+  },
+  "Messages": {
+    "AppClosed": "Waiting for updates.\nانتظر التحديث القادم",
+    "UpdateAvailable": "An update is available. Please update the app."
+  }
+}

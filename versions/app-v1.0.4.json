@@ -9,11 +9,13 @@
           "UpdateLink": "https://t.me/PYTOOl1/" 
         },
         "Actions": {
-          "CloseApp": false,
+          "CloseApp": true,
           "UpdateAvailable": false
         },
         "Messages": {
-          "AppClosed": "The app is now closed.",
+          "AppClosed": "Updates for this app are paused for now, it will be back soon.
+
+تحديثات هذا التطبيق متوقفة حاليا، سوف اقوم بتحديثه في أقرب وقت ممكن.",
           "UpdateAvailable": "An update is available. Please update the app."
         }
       }

@@ -13,9 +13,7 @@
           "UpdateAvailable": false
         },
         "Messages": {
-          "AppClosed": "Updates for this app are paused for now, it will be back soon.
-
-تحديثات هذا التطبيق متوقفة حاليا، سوف اقوم بتحديثه في أقرب وقت ممكن.",
+          "AppClosed": "Updates for this app are paused for now, it will be back soon.",
           "UpdateAvailable": "An update is available. Please update the app."
         }
       }

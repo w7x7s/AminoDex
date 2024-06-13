@@ -13,7 +13,7 @@
           "UpdateAvailable": false
         },
         "Messages": {
-          "AppClosed": "Updates for this app are paused for now, it will be back soon.",
+          "AppClosed": "Updates for this app are paused for now, it will be back soon .",
           "UpdateAvailable": "An update is available. Please update the app."
         }
       }
